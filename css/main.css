@@ -41,3 +41,25 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.blurb {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    flex: 1;
+}
+
+.profile-pic img {
+    width: 150px; /* Adjust size as needed */
+    height: auto;
+    border-radius: 50%; /* Makes it circular */
+    margin-left: 20px;
+}
