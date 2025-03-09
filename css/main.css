@@ -60,6 +60,6 @@ ul.posts li {
 .profile-pic img {
     width: 150px; /* Adjust size as needed */
     height: auto;
-    border-radius: 50%; /* Makes it circular */
+    border-radius: 0; /* Makes it circular */
     margin-left: 20px;
 }
