@@ -58,8 +58,8 @@ ul.posts li {
 }
 
 .profile-pic img {
-    width: 150px; /* Adjust size as needed */
+    width: 200px;  /* Adjust as needed */
     height: auto;
-    border-radius: 0; /* Makes it circular */
+    border-radius: 0;  /* Ensures it's rectangular */
     margin-left: 20px;
 }
